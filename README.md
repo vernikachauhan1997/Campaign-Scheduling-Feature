@@ -5,18 +5,16 @@
 This repository contains automated test scripts and detailed test plans for testing the Campaign Scheduling feature.
 
 **Test Plans**
-    Milestone 1: Functional Test Plan
 
+    Milestone 1: Functional Test Plan
         Detailed test plan covering all functional aspects of the Campaign Scheduling feature.
         File: functional-test-plan.md
 
     Milestone 2: Integration Test Plan
-
         Detailed test plan focusing on the integration of the Campaign Scheduling service with other services.
         File: integration-test-plan.md
 
     Milestone 3: UI Test Plan
-
         Test plan to create automated UI tests to ensure the Campaign Scheduling feature is user-friendly and works across different devices.
         File: ui-test-plan.md
 
