@@ -1,0 +1,13 @@
+[
+    {
+      "httpRequest": {
+        "method": "GET",
+        "path": "/email-templates"
+      },
+      "httpResponse": {
+        "statusCode": 200,
+        "body": "{\"templates\": [\"Template 1\", \"Template 2\"]}"
+      }
+    }
+  ]
+  

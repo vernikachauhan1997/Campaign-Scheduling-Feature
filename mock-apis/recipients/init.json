@@ -1,0 +1,13 @@
+[
+    {
+      "httpRequest": {
+        "method": "GET",
+        "path": "/recipients"
+      },
+      "httpResponse": {
+        "statusCode": 200,
+        "body": "{\"recipientLists\": [\"List A\", \"List B\"]}"
+      }
+    }
+  ]
+  
