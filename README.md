@@ -26,7 +26,7 @@ This repository contains automated test scripts and detailed test plans for test
         Automated functional test scripts for the Campaign Scheduling feature.
         Language: Java
         Framework: Selenium WebDriver
-        Directory: functional-tests
+        Directory: functional-tests.
 
         Automated UI Test Scripts
             Automated AutomatedUI test scripts for the Campaign Scheduling feature.
