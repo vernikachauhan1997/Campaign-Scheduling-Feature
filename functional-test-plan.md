@@ -8,7 +8,7 @@ Test Case 1: Verify that a user can create a new campaign with valid details.
         Log in to the system.
         Navigate to the campaign scheduling page.
         Click on "Create Campaign".
-        Fill in valid campaign details (name, send time, recipient list, email template).
+        Fill in valid campaign details (name, send time, recipient list, email template)
         Click on "Save".
     Expected Result: The campaign is successfully created and saved in the database.
 
